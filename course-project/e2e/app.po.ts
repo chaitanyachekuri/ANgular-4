@@ -1,6 +1,6 @@
 import { browser, element, by } from 'protractor';
 
-export class CourseProjectPage {
+export class NewCliPage {
   navigateTo() {
     return browser.get('/');
   }
